@@ -2,7 +2,6 @@
 
 Thank you for joining us at **ElectroPulse**, our two-day event dedicated to learning and experimenting with Arduino and IoT technologies. We hope you had a great time exploring new concepts, building exciting projects, and gaining hands-on experience with Arduino!
 
-- 
 ## Event Recap
 
 ### **Friday, 06 December 2024 - Introduction to IoT, Arduinos, and Simulator (Online)**
